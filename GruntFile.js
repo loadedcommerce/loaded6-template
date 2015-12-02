@@ -1,8 +1,3 @@
-/*
-	
-	GruntFile.js created by Jay for Factor 3.
-
-*/
 module.exports = function(grunt) {
   
   	// Project configuration.
